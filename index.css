@@ -2,8 +2,8 @@
 display: flex;
 flex-direction: column;
 align-items: center;
-
+}
 .headerstyle {
 color: #FF0000;
-
+text-size: 100px;
 }
